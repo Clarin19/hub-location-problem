@@ -25,3 +25,6 @@ Assumptions:
 • The hubs have unlimited capacity and there is no limit for the number of spoke nodes that can be assigned to a particular hub
 
 • The transportation cost to be minimised as part of the objective function is assumed to be linearly dependent on the distance between the nodes
+
+
+Code available on 10 March 2023
